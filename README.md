@@ -1,4 +1,3 @@
-logo
-====
+# logo
 
-The Logo(s).
+The Logo(s) for our various things.
