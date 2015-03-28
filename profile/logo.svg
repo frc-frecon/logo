@@ -13,8 +13,11 @@
    height="1024"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="logo.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/kristofer/Development/Git/GitHub/frc-frecon/logo/profile/logo-1024px.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -22,16 +25,16 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="236.15294"
-     inkscape:cy="520"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="532.98525"
+     inkscape:cy="354.11596"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="744"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="1" />
@@ -54,21 +57,26 @@
      transform="translate(0,-28.362183)">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:75%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="276.6875"
-       y="535.86218"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:75%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="287.0625"
+       y="443.36218"
        id="text3028"
        sodipodi:linespacing="75%"><tspan
          sodipodi:role="line"
-         x="276.6875"
-         y="535.86218"
-         style="font-size:256px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:75%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
-         id="tspan3040">FRe</tspan><tspan
+         x="287.0625"
+         y="443.36218"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:256px;line-height:75%;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';letter-spacing:0px"
+         id="tspan3040">FRC</tspan><tspan
          sodipodi:role="line"
-         x="276.6875"
-         y="727.86218"
-         style="font-size:256px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:75%;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
-         id="tspan3044">Con</tspan></text>
+         x="287.0625"
+         y="635.36218"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:256px;line-height:75%;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';letter-spacing:0px"
+         id="tspan3044"> eo</tspan><tspan
+         sodipodi:role="line"
+         x="287.0625"
+         y="827.36218"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:256px;line-height:75%;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';letter-spacing:0px"
+         id="tspan4194">  n</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
